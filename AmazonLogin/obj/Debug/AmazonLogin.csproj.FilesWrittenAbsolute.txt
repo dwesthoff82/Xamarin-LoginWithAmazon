@@ -1,0 +1,11 @@
+/Users/dwesthoff/Projects/CloudDrive/AmazonLogin/obj/Debug/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/Users/dwesthoff/Projects/CloudDrive/AmazonLogin/obj/Debug/AmazonLogin.Jars.login-with-amazon-sdk.jar
+/Users/dwesthoff/Projects/CloudDrive/AmazonLogin/bin/Debug/Xamarin.Android.Support.v4.dll
+/Users/dwesthoff/Projects/CloudDrive/AmazonLogin/bin/Debug/AmazonLogin.dll.mdb
+/Users/dwesthoff/Projects/CloudDrive/AmazonLogin/bin/Debug/AmazonLogin.dll
+/Users/dwesthoff/Projects/CloudDrive/AmazonLogin/obj/Debug/AmazonLogin.dll
+/Users/dwesthoff/Projects/CloudDrive/AmazonLogin/obj/Debug/AmazonLogin.dll.mdb
+/Users/dwesthoff/Dropbox/AmazonLogin/obj/Debug/MonoAndroid,Version=v6.0.AssemblyAttribute.cs
+/Users/dwesthoff/Dropbox/AmazonLogin/obj/Debug/AmazonLogin.dll
+/Users/dwesthoff/Dropbox/AmazonLogin/obj/Debug/AmazonLogin.dll.mdb
+/Users/dwesthoff/Projects/CloudDrive/AmazonLogin/obj/Debug/MonoAndroid,Version=v2.3.AssemblyAttribute.cs
